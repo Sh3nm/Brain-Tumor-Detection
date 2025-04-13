@@ -8,8 +8,7 @@ Proyek ini bertujuan untuk mendeteksi dan mengklasifikasikan tipe tumor otak dar
 ---
 ### 📁 Struktur Dataset
 
-Link Dataset: (https://www.kaggle.com/code/jabirmuktabir/deteksi-tumor-otak-menggunakan-yolov8/notebook)
-
+Link Dataset: (https://www.kaggle.com/datasets/ahmedsorour1/mri-for-brain-tumor-with-bounding-boxes)
 Dataset disusun ulang dalam struktur berikut:
 
 ```
