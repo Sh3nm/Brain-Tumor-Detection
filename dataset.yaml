@@ -1,0 +1,8 @@
+
+path: /Volumes/Mac HD Data/INFORMATIKA/FPKcv/MRI-Brain-Tumor-Bounding-Boxes
+
+train: Train
+val: Val
+
+nc: 4
+names: ['Glioma','Meningioma', 'No Tumor', 'Pituitary']
