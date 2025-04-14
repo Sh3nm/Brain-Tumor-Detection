@@ -7,6 +7,7 @@ Proyek ini bertujuan untuk mendeteksi dan mengklasifikasikan tipe tumor otak dar
 
 ### 🔍 Tampilan Aplikasi
 [![App Preview](image.png)](https://huggingface.co/spaces/cashewwww/Brain-Tumor)
+Link App: (https://huggingface.co/spaces/cashewwww/Brain-Tumor)
 
 ---
 ### 📁 Struktur Dataset
