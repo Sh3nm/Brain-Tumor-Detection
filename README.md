@@ -5,6 +5,8 @@ Proyek ini bertujuan untuk mendeteksi dan mengklasifikasikan tipe tumor otak dar
 - **Deteksi lokasi tumor otak**
 - **Klasifikasi jenis tumor**: Glioma, Meningioma, Pituitary, atau No Tumor
 
+---
+
 ### 🔍 Tampilan Aplikasi
 [![App Preview](image.png)](https://huggingface.co/spaces/cashewwww/Brain-Tumor)
 Link App: (https://huggingface.co/spaces/cashewwww/Brain-Tumor)
