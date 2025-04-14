@@ -1,14 +1,3 @@
----
-title: Brain Tumor Detection
-emoji: 🧠
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: "4.15.0"
-app_file: app.py
-pinned: false
----
-
 ## 🧠 Brain Tumor Detection and Classification Based on MRI Brain Scan
 
 Proyek ini bertujuan untuk mendeteksi dan mengklasifikasikan tipe tumor otak dari gambar MRI menggunakan pendekatan deep learning. Data dilabeli menggunakan format YOLO, dan digunakan untuk dua task utama:
