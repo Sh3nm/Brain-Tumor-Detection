@@ -48,11 +48,3 @@ Notebook melakukan:
 - Format label YOLO
 
 ---
-
-## 🧠 Brain Tumor Classification App
-
-A simple Gradio app for brain tumor detection using a CNN model.  
-Hosted on Hugging Face Spaces.
-[![Hugging Face Spaces](https://huggingface.co/spaces/cashewwww/Brain-Tumor/badge.svg)](https://huggingface.co/spaces/cashewwww/Brain-Tumor)
-
----
