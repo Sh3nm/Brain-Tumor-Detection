@@ -48,3 +48,15 @@ Notebook melakukan:
 - Format label YOLO
 
 ---
+
+---
+title: Brain Tumor Detection
+emoji: 🧠
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: "4.15.0"
+app_file: app.py
+pinned: false
+---
+
